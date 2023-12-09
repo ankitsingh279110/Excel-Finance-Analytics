@@ -2,7 +2,7 @@
 
 - **Project objective:** 
 
- **1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ankitsingh279110/Excel-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/ankitsingh279110/Excel-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf)_ :**
+**1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ankitsingh279110/Excel-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/ankitsingh279110/Excel-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf)_ :**
 
    - Involves time-based analysis and reporting, requiring skills in date table creation, fiscal month and quarter derivation.
    - Utilizes Power Query for data extraction, transformation, and loading.
@@ -17,13 +17,13 @@
    - Evaluate and report on the Gross Margin Percentage in specific sub-zones.
    - Break down the GM% by quarters to identify trends and variations over time.
    
-- **Purpose of sales analytics:**
-- Evaluation of Financial Performance:
-- Understanding and assessing how well the organization is performing financially.
-- Support Decision-Making:
-- Providing insights to aid in making informed decisions.
-- Facilitate Communication with Stakeholders:
-- Creating reports that convey financial information clearly to stakeholders.
+**Purpose of sales analytics:**
+   **Evaluation of Financial Performance:**
+   - Understanding and assessing how well the organization is performing financially.
+   **Support Decision-Making:**
+   - Providing insights to aid in making informed decisions.
+   **Facilitate Communication with Stakeholders:**
+   - Creating reports that convey financial information clearly to stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
