@@ -18,11 +18,11 @@
    - Break down the GM% by quarters to identify trends and variations over time.
    
 **Purpose of sales analytics:**
-   **Evaluation of Financial Performance:**
+  - **Evaluation of Financial Performance:**
    - Understanding and assessing how well the organization is performing financially.
-   **Support Decision-Making:**
+ -  **Support Decision-Making:**
    - Providing insights to aid in making informed decisions.
-   **Facilitate Communication with Stakeholders:**
+ -  **Facilitate Communication with Stakeholders:**
    - Creating reports that convey financial information clearly to stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
