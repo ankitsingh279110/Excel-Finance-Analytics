@@ -3,7 +3,6 @@
 **Project objective:** 
 
    **1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ankitsingh279110/Excel-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/ankitsingh279110/Excel-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf)_ :**
-   
      - Involves time-based analysis and reporting, requiring skills in date table creation, fiscal month and quarter derivation. 
      - Utilizes Power Query for data extraction, transformation, and loading.
   
