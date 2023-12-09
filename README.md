@@ -18,23 +18,33 @@
      - Break down the GM% by quarters to identify trends and variations over time.
 
 **Purpose of sales analytics:**
+
   - **Evaluation of Financial Performance:**
      - Understanding and assessing how well the organization is performing financially.
+  
  -  **Support Decision-Making:**
      - Providing insights to aid in making informed decisions.
+  
  -  **Facilitate Communication with Stakeholders:**
      - Creating reports that convey financial information clearly to stakeholders.
 
 - **Importance of analyzing Finance data:**
+  
   - **Benchmarking:**
      - Comparing performance against industry peers to identify strengths and weaknesses.
- -  **Foundation for Budgeting and Forecasting:**
+       
+  - **Foundation for Budgeting and Forecasting:**
      - Using historical data to make accurate financial predictions.
        
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:**
+  - **Align Financial Planning with Strategic Goals:**
+     - Ensuring financial planning aligns with the overall strategic objectives of the organization.
+       
+  - **Instill Confidence in Financial Outlook:**
+     - Building trust and confidence in the organization's financial stability.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
