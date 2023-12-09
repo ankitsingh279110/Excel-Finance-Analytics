@@ -19,11 +19,11 @@
    
 **Purpose of sales analytics:**
   - **Evaluation of Financial Performance:**
-   - Understanding and assessing how well the organization is performing financially.
+     - Understanding and assessing how well the organization is performing financially.
  -  **Support Decision-Making:**
-   - Providing insights to aid in making informed decisions.
+     - Providing insights to aid in making informed decisions.
  -  **Facilitate Communication with Stakeholders:**
-   - Creating reports that convey financial information clearly to stakeholders.
+     - Creating reports that convey financial information clearly to stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
