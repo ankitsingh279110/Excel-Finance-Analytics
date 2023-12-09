@@ -25,8 +25,12 @@
  -  **Facilitate Communication with Stakeholders:**
      - Creating reports that convey financial information clearly to stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
+- **Importance of analyzing Finance data:**
+  - **Benchmarking:**
+     - Comparing performance against industry peers to identify strengths and weaknesses.
+ -  **Foundation for Budgeting and Forecasting:**
+     - Using historical data to make accurate financial predictions.
+       
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
